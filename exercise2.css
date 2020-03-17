@@ -1,0 +1,10 @@
+button.previous{
+	position: absolute;
+	left: 10px;
+	top: 425px;
+}
+button.next{
+	position: absolute;
+	left: 667px;
+	top: 425px;
+}

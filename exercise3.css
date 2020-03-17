@@ -1,0 +1,57 @@
+body
+{
+	background-image: url(https://pbs.twimg.com/media/EBJRsgcXoAAaWOm?format=jpg&name=large);
+	background-size: 250px;
+	background-repeat: no-repeat;
+	background-attachment: relative;
+	background-color: rgb(128,0,0);
+
+}
+p
+{
+	font-family: Comic Sans MS;
+	color: white;
+	text-align: left;
+	width: 500px;
+	left: 400px;
+	position: relative;
+
+}
+p.fav
+{
+	font-family: Comic Sans MS;
+	color: white;
+	text-align: left;
+	width: 500px;
+	left: 600px;
+	position: relative;
+
+}
+h2
+{
+	font-family: Comic Sans MS;
+	color: white;
+	left: 590px;
+	position: relative;
+}
+h3
+{
+	font-family: Comic Sans MS;
+	color: white;
+	left: 560px;
+	position: relative;
+}
+div
+{
+	left: 370px;
+	top: 70px;
+	position: relative;	
+}
+a:visited
+{
+	color: purple;
+}
+a:hover
+{
+	color:black;
+}
